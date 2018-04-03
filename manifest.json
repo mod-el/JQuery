@@ -1,6 +1,6 @@
 {
 	"name": "JQuery",
-	"description": "Integration with jQuery (via CDN)",
+	"description": "Integration with jQuery 3.3.1 (via CDN)",
 	"version": "1.1.0",
 	"dependencies": {},
 	"js": [
