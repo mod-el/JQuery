@@ -1,9 +1,6 @@
 {
 	"name": "JQuery",
-	"description": "Integration with jQuery 3.6.1 (via CDN)",
-	"version": "1.4.0",
-	"dependencies": {},
-	"js": [
-		"https://code.jquery.com/jquery-3.6.1.min.js"
-	]
+	"description": "DEPRECATED (use model/assets)",
+	"version": "2.0.0",
+	"dependencies": {}
 }
